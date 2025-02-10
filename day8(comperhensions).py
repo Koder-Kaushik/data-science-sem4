@@ -1,4 +1,4 @@
-# List Comprehensions in Python - Beginner Friendly Guide
+# List Comprehensions in Python 
 
 # Basic List Comprehension
 # This creates a new list where each element is squared.
